@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Lamroj02, otherwise known as Saroj
-- 👀 I’m interested in who knows for sure really
-- 🌱 I’m currently learning smth probably
-- 💞️ I’m looking to collaborate on smth ig but idk what
+- 👋 Hi, I’m @Lamroj02, otherwise known as Saroj Lama.
+- 👀 I’m interested in back-end development (C#, Java) but am also looking to expand my skills for front-end too!
+- 🌱 I’m currently learning React.js and would like to later pursue Node for full-stack development.
 - 📫 How to reach me ... email - lamroj02@gmail.com
 
 <!---
