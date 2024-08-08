@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lamroj02, otherwise known as Saroj Lama.
-- 👀 I’m interested in back-end development (C#, Java) but am also looking to expand my skills for front-end too!
-- 🌱 I’m currently learning React.js and would like to later pursue Node for full-stack development.
+- 👀 I'm interested in Software Engineering, particularly with C# or Java, but I am happy to challenge myself in any area!
+- 🌱 I’m currently learning React.js for website and possibly full-stack development.
 - 📫 How to reach me ... email - lamroj02@gmail.com
 
 <!---
